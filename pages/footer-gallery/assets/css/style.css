@@ -484,7 +484,7 @@ body {
   }
 
   .d3-an li a:hover:after{ width: 30%; }
-  .d3-an li:first-child a:after{ background: #3498db; }
+  .d3-an li:first-child a:after{ background: #dcbd34; }
   .d3-an li:nth-child(2) a:after{ background: #ff71f3; }
   .d3-an li:nth-child(3) a:after{ background: #000000; }
   .d3-an li:last-child a:after{ background: #891abc; }
