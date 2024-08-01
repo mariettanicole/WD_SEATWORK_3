@@ -5,12 +5,12 @@
 <br />
 <div align="center">
   <a href="https://github.com/mariettanicole/">
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/lotus_flower-removebg-preview.png" alt="Nyebe" width="130" height="100">
   </a>
   <h3 align="center">Seatwork 3: Footer & Header</h3>
 </div>
 <div align="center">
-  This is for demonstrating skills in HTML and CSS with Multiple Pages, Effects and Container Manipulations. Providing a Different Versions of Headers and Footers.
+  A simple header and footer designs both static and animated using html and css.
 </div>
 
 <br />
@@ -49,14 +49,22 @@
 
 ## Overview
 
-Project demonstrate the coding of HTMl and CSS in different kinds of headers and footers in addition of animations. This is to have hands-on experience in coding and having an actual output.
+The project is a website consisting of two main pages. Each page has specific components: one page contains 10 headers, and the other page contains 10 footers. Five of these headers and footers are static (unchanging), while the other five are animated.
+
+Guiding Question:
+ - The purpose of the website is to showcase a design concept where headers and footers are prominent features. Headers typically contain navigation links, titles, or branding elements at the top of a webpage. Footers, on the other hand, usually contain supplementary information, contact details, social media links, or other relevant content at the bottom of a webpage. The inclusion of animated footers adds a dynamic and engaging element to the user experience.
 
 ### Key Components
-- Header Animation
-  - Hover Effect
-  - Active Effect
-  - Multi Layer Domino Effect
-  - Not Effect
+- What are key components
+- Headers Page:
+  - 10 distinct headers showcasing different styles or functionalities.
+  - Each header may include navigation menus, logos, search bars, or other relevant content.
+- Footers Page:
+  - 10 footers divided into 5 static and 5 animated.
+  - Static footers will display consistent information such as copyright notices, contact information, and links.
+  - Animated footers will feature dynamic content that may include interactive elements or visual effects.
+- What technology used and how it is used
+HTML/CSS: Used for structuring the content (HTML) and styling it (CSS).
 
 
 ### Technology
@@ -81,8 +89,6 @@ WD-ProjectName
 |   |   └─ style.css
 |   └─ img
 |   |   └─ fileWith.jpeg/.jpg/.webp/.png
-|   └─ js
-|       └─ script.js
 └─ pages
 |  └─ pageName
 |     └─ assets
@@ -90,8 +96,6 @@ WD-ProjectName
 |     |  |  └─ style.css
 |     |  └─ img
 |     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ script.js
 |     └─ index.html
 └─ index.html
 └─ readme.md
@@ -100,5 +104,4 @@ WD-ProjectName
 ## Resources
 
 | Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Hover Effects | Used as reference to get hover effects | https://ianlunn.github.io/Hover/ |
