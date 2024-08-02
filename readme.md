@@ -104,4 +104,5 @@ WD-ProjectName
 ## Resources
 
 | Title | Purpose | Link |
+|-|-|-|
 | Hover Effects | Used as reference to get hover effects | https://ianlunn.github.io/Hover/ |
